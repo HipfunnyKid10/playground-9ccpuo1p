@@ -3,7 +3,7 @@
 This Node.js template lets you get started quickly with a simple one-page playground.
 
 ```javascript runnable
-console.log('Hello');
+console.log('Hello! I am new to coding in Javascript and would love it if other people learn with me.');
 ```
 
 # Advanced usage
